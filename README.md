@@ -8,7 +8,7 @@ In diesem Repository befindet sich der Quelltext für das Skript und die Präsen
 
 Die Vortrag wurden anlässlich der [MetaNook 2016](http://metameute.de/nook2016/) erstellt und gehören seit dem fest zum Programm der MetaNook.
 
-Viele weitere Links zum Thema finden sich [hier](mlte.de/latex).
+Viele weitere Links zum Thema finden sich [hier](www.mlte.de/latex).
 
 # Lizenz
 
